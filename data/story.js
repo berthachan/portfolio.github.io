@@ -26,11 +26,11 @@ var story = {
    "image": "hold-policy.png",
    "index": 0,
    "width": 1440,
-   "height": 7689,
+   "height": 7486,
    "x": -1058,
    "y": 2204,
    "awidth": 1440,
-   "aheight": 7689,
+   "aheight": 7486,
    "ax": 0,
    "ay": 0,
    "protoOverflowV": false,
@@ -87,7 +87,7 @@ var story = {
      "name": "Footer Home",
      "rect": {
       "x": 160,
-      "y": 7617,
+      "y": 7414,
       "width": 270.82373046875,
       "height": 20
      },
@@ -109,7 +109,7 @@ var story = {
      "name": "Home",
      "rect": {
       "x": 1184,
-      "y": 7617,
+      "y": 7414,
       "width": 96,
       "height": 20
      },
@@ -128,9 +128,9 @@ var story = {
     {
      "name": "Pagination Next",
      "rect": {
-      "x": 929,
+      "x": 875,
       "y": 7200,
-      "width": 348,
+      "width": 402,
       "height": 32
      },
      "index": 4,
@@ -299,28 +299,6 @@ var story = {
        "tmpDestModal": false
       }
      ]
-    },
-    {
-     "name": "Frame 42384",
-     "rect": {
-      "x": 544,
-      "y": 2149,
-      "width": 352,
-      "height": 404
-     },
-     "index": 11,
-     "reactions": [
-      {
-       "action": "FRAME",
-       "navigationType": "NAVIGATE",
-       "trigger": "ON_CLICK",
-       "srcPageIndex": 1,
-       "frameIndex": 2,
-       "transAnimType": 0,
-       "transAnimDuration": 300,
-       "tmpDestModal": false
-      }
-     ]
     }
    ],
    "layout": null
@@ -332,11 +310,11 @@ var story = {
    "image": "comp-analysis.png",
    "index": 2,
    "width": 1440,
-   "height": 6881,
+   "height": 9265,
    "x": 598,
    "y": 2204,
    "awidth": 1440,
-   "aheight": 6881,
+   "aheight": 9265,
    "ax": 0,
    "ay": 0,
    "protoOverflowV": false,
@@ -353,7 +331,7 @@ var story = {
       "width": 270.82373046875,
       "height": 20
      },
-     "index": 12,
+     "index": 11,
      "reactions": [
       {
        "action": "FRAME",
@@ -375,7 +353,7 @@ var story = {
       "width": 96,
       "height": 20
      },
-     "index": 13,
+     "index": 12,
      "reactions": [
       {
        "action": "FRAME",
@@ -393,11 +371,11 @@ var story = {
      "name": "Footer Home",
      "rect": {
       "x": 160,
-      "y": 6809,
+      "y": 9193,
       "width": 270.82373046875,
       "height": 20
      },
-     "index": 14,
+     "index": 13,
      "reactions": [
       {
        "action": "FRAME",
@@ -415,11 +393,11 @@ var story = {
      "name": "Home",
      "rect": {
       "x": 1184,
-      "y": 6809,
+      "y": 9193,
       "width": 96,
       "height": 20
      },
-     "index": 15,
+     "index": 14,
      "reactions": [
       {
        "action": "URL",
@@ -435,11 +413,11 @@ var story = {
      "name": "Pagination Previous",
      "rect": {
       "x": 161,
-      "y": 6611,
+      "y": 9030.837890625,
       "width": 133,
       "height": 32
      },
-     "index": 16,
+     "index": 15,
      "reactions": [
       {
        "action": "FRAME",
@@ -484,7 +462,7 @@ var story = {
       "width": 270.82373046875,
       "height": 20
      },
-     "index": 17,
+     "index": 16,
      "reactions": [
       {
        "action": "FRAME",
@@ -506,7 +484,7 @@ var story = {
       "width": 96,
       "height": 20
      },
-     "index": 18,
+     "index": 17,
      "reactions": [
       {
        "action": "URL",
@@ -526,7 +504,7 @@ var story = {
       "width": 270.82373046875,
       "height": 20
      },
-     "index": 19,
+     "index": 18,
      "reactions": [
       {
        "action": "FRAME",
@@ -571,7 +549,7 @@ var story = {
       "width": 270.82373046875,
       "height": 20
      },
-     "index": 20,
+     "index": 19,
      "reactions": [
       {
        "action": "FRAME",
@@ -593,7 +571,7 @@ var story = {
       "width": 96,
       "height": 20
      },
-     "index": 21,
+     "index": 20,
      "reactions": [
       {
        "action": "FRAME",
@@ -615,7 +593,7 @@ var story = {
       "width": 270.82373046875,
       "height": 20
      },
-     "index": 22,
+     "index": 21,
      "reactions": [
       {
        "action": "FRAME",
@@ -637,7 +615,7 @@ var story = {
       "width": 96,
       "height": 20
      },
-     "index": 23,
+     "index": 22,
      "reactions": [
       {
        "action": "URL",
@@ -657,7 +635,7 @@ var story = {
       "width": 185,
       "height": 32
      },
-     "index": 24,
+     "index": 23,
      "reactions": [
       {
        "action": "FRAME",
@@ -681,11 +659,11 @@ var story = {
    "image": "onboarding.png",
    "index": 5,
    "width": 1440,
-   "height": 12014,
+   "height": 10916,
    "x": 3755,
    "y": 1177,
    "awidth": 1440,
-   "aheight": 12014,
+   "aheight": 10916,
    "ax": 0,
    "ay": 0,
    "protoOverflowV": false,
@@ -702,7 +680,7 @@ var story = {
       "width": 270.82373046875,
       "height": 20
      },
-     "index": 25,
+     "index": 24,
      "reactions": [
       {
        "action": "FRAME",
@@ -724,7 +702,7 @@ var story = {
       "width": 96,
       "height": 20
      },
-     "index": 26,
+     "index": 25,
      "reactions": [
       {
        "action": "FRAME",
@@ -742,11 +720,11 @@ var story = {
      "name": "Footer Home",
      "rect": {
       "x": 160,
-      "y": 11939,
+      "y": 10841,
       "width": 270.82373046875,
       "height": 20
      },
-     "index": 27,
+     "index": 26,
      "reactions": [
       {
        "action": "FRAME",
@@ -764,11 +742,11 @@ var story = {
      "name": "Home",
      "rect": {
       "x": 1184,
-      "y": 11939,
+      "y": 10841,
       "width": 96,
       "height": 20
      },
-     "index": 28,
+     "index": 27,
      "reactions": [
       {
        "action": "URL",
@@ -783,12 +761,12 @@ var story = {
     {
      "name": "Pagination Previous",
      "rect": {
-      "x": 150,
-      "y": 11749,
+      "x": 160,
+      "y": 10604,
       "width": 266,
       "height": 32
      },
-     "index": 29,
+     "index": 28,
      "reactions": [
       {
        "action": "FRAME",
@@ -808,7 +786,7 @@ var story = {
  ],
  "startPageIndex": 1,
  "totalImages": 6,
- "fileKey": "portfolio",
+ "fileKey": "2025portfolio",
  "groups": [
   {
    "id": "404:90",
